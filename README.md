@@ -1,4 +1,4 @@
-# Applied-deep-learning-project
+# Image Captioning: Applied-deep-learning-project
 
 <p align="center">
     <center>
