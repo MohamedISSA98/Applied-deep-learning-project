@@ -15,7 +15,7 @@
 - *Rihem Mansri* (M2 Data Science_École Polytechnique)
 
 ## Project description
-Get started with the dedicated notebook: [Image_captioning_with_attention_final_version.ipynb]
+Get started with the dedicated notebook: [Applied-deep-learning-project/Image_captioning_with_attention_final_version.ipynb]
 
 ### Dataset description
 The dataset that we used for this project is from the https://vizwiz.org/ website.
