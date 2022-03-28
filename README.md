@@ -17,7 +17,7 @@
 ## Project description
 Get started with the [dedicated notebook](Image_captioning_with_attention_final_version.ipynb)
 
-A html version of the notebook is also available [here](Image_captioning_with_attention_final_version.html)
+A html version of the notebook is available [here](Image_captioning_with_attention_final_version.html)
 
 ### Dataset description
 The dataset that we used for this project is from the https://vizwiz.org/ website.
